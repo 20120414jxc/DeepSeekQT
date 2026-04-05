@@ -1,0 +1,20 @@
+# Qt 自动生成
+build-*
+*.pro.user
+*.qbs.user
+*.autosave
+*.o
+*.moc
+*.ui
+ui_*.h
+qrc_*.cpp
+Makefile
+cmake-build-*
+.qt
+.vscode
+.idea
+
+# 系统文件
+.DS_Store
+*.swp
+
