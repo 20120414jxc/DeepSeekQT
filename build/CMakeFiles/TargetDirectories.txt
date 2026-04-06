@@ -1,6 +1,0 @@
-/home/kali/DeepSeekQT/build/CMakeFiles/DeepSeekClient.dir
-/home/kali/DeepSeekQT/build/CMakeFiles/DeepSeekClient_qmlimportscan.dir
-/home/kali/DeepSeekQT/build/CMakeFiles/edit_cache.dir
-/home/kali/DeepSeekQT/build/CMakeFiles/rebuild_cache.dir
-/home/kali/DeepSeekQT/build/CMakeFiles/DeepSeekClient_autogen_timestamp_deps.dir
-/home/kali/DeepSeekQT/build/CMakeFiles/DeepSeekClient_autogen.dir

@@ -1,5 +1,0 @@
-# Hashes of file build rules.
-9a77c4517592f6983f175c030e46ac0c .qt/qml_imports/DeepSeekClient_build.cmake
-70738dfb3d1cbe2c655349505382a7b8 CMakeFiles/DeepSeekClient_autogen
-70738dfb3d1cbe2c655349505382a7b8 CMakeFiles/DeepSeekClient_qmlimportscan
-42e9e373bbe19e484e0111fd3c9ca86f DeepSeekClient_autogen/timestamp
