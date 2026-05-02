@@ -1,3 +1,4 @@
+<a href="https://space.bilibili.com/1524901776"><img src="https://img.shields.io/badge/Bilibili-关注我-pink?logo=bilibili" alt="Bilibili"></a>   
 # DeepSeek 客户端
 
 一个基于 Qt 6 和 WebEngine 构建的 DeepSeek AI 聊天服务桌面客户端。
